@@ -1,4 +1,4 @@
-KSub Player Android Application (Dec 2018 - Current)
+# KSub Player Android Application (Dec 2018 - Current)
 A personal project aiming to have timed subtitles play during KPop videos as most music videos are lacking them at the moment.  App coded in android studio w/ API 28.
 
 # Functionality
