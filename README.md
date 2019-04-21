@@ -5,3 +5,9 @@ A personal project aiming to have timed subtitles play during KPop videos as mos
 -	App exhibits modern material design with splash screen  
 -	Used Google API to play YouTube videos (faster than firebase streaming)
 -	Implemented recycler and card views for menu activities
+
+# Example Images
+
+![alt text](https://raw.githubusercontent.com/ltanedo/KSubPlayer/develop/Examples/Screen%20Shot%202019-04-21%20at%207.17.50%20PM.png)
+
+![alt text](https://raw.githubusercontent.com/ltanedo/KSubPlayer/develop/Examples/Screen%20Shot%202019-04-21%20at%207.19.26%20PM.png)
