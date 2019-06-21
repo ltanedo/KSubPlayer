@@ -11,3 +11,5 @@ A personal project aiming to have timed subtitles play during KPop videos as mos
 ![alt text](https://raw.githubusercontent.com/ltanedo/KSubPlayer/develop/Examples/Screen%20Shot%202019-04-21%20at%207.17.50%20PM.png)
 
 ![alt text](https://raw.githubusercontent.com/ltanedo/KSubPlayer/develop/Examples/Screen%20Shot%202019-04-21%20at%207.19.26%20PM.png)
+
+![alt text](https://raw.githubusercontent.com/ltanedo/KSubPlayer/develop/Examples/Screen%20Shot%202019-06-20%20at%206.08.50%20PM.png)
